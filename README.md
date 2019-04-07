@@ -4,6 +4,6 @@
 
 Алгоритм описан в файле discrete_optimization.pdf
 
-Запуск тестов: bash run_test.sh
+Запуск тестов: bash run_tests.sh
 
 Запуск программы: bash run.sh
