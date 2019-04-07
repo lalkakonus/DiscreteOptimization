@@ -1,0 +1,86 @@
+2019-04-07 22:45:06,711 - logger.problem - DEBUG - f : [5 3 4 4]
+2019-04-07 22:45:06,711 - logger.problem - DEBUG - A : [2 2 1 2]
+2019-04-07 22:45:06,711 - logger.problem - DEBUG - b : 4
+2019-04-07 22:45:06,711 - logger.solver - DEBUG - Get region: [-1. -1. -1. -1.]
+2019-04-07 22:45:06,712 - logger.problem - DEBUG - A com_sum: [1 3 5 7]
+2019-04-07 22:45:06,712 - logger.problem - DEBUG - b : 4
+2019-04-07 22:45:06,712 - logger.problem - DEBUG - S position: 2
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - Feasible point : [1 0 1 0], feasible value 9
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - Estimate point : [1.  0.  1.  0.5], estimate value 11.0
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - New record point
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - Put region [-1 -1 -1  1]
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - Put region [-1 -1 -1  0]
+2019-04-07 22:45:06,715 - logger.solver - DEBUG - Get region: [-1 -1 -1  1]
+2019-04-07 22:45:06,716 - logger.problem - DEBUG - A com_sum: [1 3 5]
+2019-04-07 22:45:06,716 - logger.problem - DEBUG - b : 2
+2019-04-07 22:45:06,716 - logger.problem - DEBUG - S position: 1
+2019-04-07 22:45:06,716 - logger.solver - DEBUG - Feasible point : [0 0 1 1], feasible value 8
+2019-04-07 22:45:06,716 - logger.solver - DEBUG - Estimate point : [0.5 0.  1.  1. ], estimate value 10.5
+2019-04-07 22:45:06,717 - logger.solver - DEBUG - Put region [ 1 -1 -1  1]
+2019-04-07 22:45:06,717 - logger.solver - DEBUG - Put region [ 0 -1 -1  1]
+2019-04-07 22:45:06,717 - logger.solver - DEBUG - Get region: [-1 -1 -1  0]
+2019-04-07 22:45:06,717 - logger.problem - DEBUG - A com_sum: [1 3 5]
+2019-04-07 22:45:06,717 - logger.problem - DEBUG - b : 4
+2019-04-07 22:45:06,717 - logger.problem - DEBUG - S position: 2
+2019-04-07 22:45:06,717 - logger.solver - DEBUG - Feasible point : [1 0 1 0], feasible value 9
+2019-04-07 22:45:06,718 - logger.solver - DEBUG - Estimate point : [1.  0.5 1.  0. ], estimate value 10.5
+2019-04-07 22:45:06,718 - logger.solver - DEBUG - Put region [-1  1 -1  0]
+2019-04-07 22:45:06,718 - logger.solver - DEBUG - Put region [-1  0 -1  0]
+2019-04-07 22:45:06,718 - logger.solver - DEBUG - Get region: [ 1 -1 -1  1]
+2019-04-07 22:45:06,718 - logger.problem - DEBUG - A com_sum: [1 3]
+2019-04-07 22:45:06,718 - logger.problem - DEBUG - b : 0
+2019-04-07 22:45:06,719 - logger.problem - DEBUG - S position: 0
+2019-04-07 22:45:06,719 - logger.solver - DEBUG - Feasible point : [1 0 0 1], feasible value 9
+2019-04-07 22:45:06,719 - logger.solver - DEBUG - Estimate point : [1. 0. 0. 1.], estimate value 9.0
+2019-04-07 22:45:06,719 - logger.solver - DEBUG - Estimate value less or equal record value
+2019-04-07 22:45:06,719 - logger.solver - DEBUG - Get region: [ 0 -1 -1  1]
+2019-04-07 22:45:06,719 - logger.problem - DEBUG - A com_sum: [1 3]
+2019-04-07 22:45:06,720 - logger.problem - DEBUG - b : 2
+2019-04-07 22:45:06,720 - logger.problem - DEBUG - S position: 1
+2019-04-07 22:45:06,720 - logger.solver - DEBUG - Feasible point : [0 0 1 1], feasible value 8
+2019-04-07 22:45:06,720 - logger.solver - DEBUG - Estimate point : [0.  0.5 1.  1. ], estimate value 9.5
+2019-04-07 22:45:06,720 - logger.solver - DEBUG - Put region [ 0  1 -1  1]
+2019-04-07 22:45:06,720 - logger.solver - DEBUG - Put region [ 0  0 -1  1]
+2019-04-07 22:45:06,721 - logger.solver - DEBUG - Get region: [-1  1 -1  0]
+2019-04-07 22:45:06,721 - logger.problem - DEBUG - A com_sum: [1 3]
+2019-04-07 22:45:06,721 - logger.problem - DEBUG - b : 2
+2019-04-07 22:45:06,721 - logger.problem - DEBUG - S position: 1
+2019-04-07 22:45:06,721 - logger.solver - DEBUG - Feasible point : [0 1 1 0], feasible value 7
+2019-04-07 22:45:06,721 - logger.solver - DEBUG - Estimate point : [0.5 1.  1.  0. ], estimate value 9.5
+2019-04-07 22:45:06,722 - logger.solver - DEBUG - Put region [ 1  1 -1  0]
+2019-04-07 22:45:06,722 - logger.solver - DEBUG - Put region [ 0  1 -1  0]
+2019-04-07 22:45:06,722 - logger.solver - DEBUG - Get region: [-1  0 -1  0]
+2019-04-07 22:45:06,723 - logger.problem - DEBUG - A com_sum: [1 3]
+2019-04-07 22:45:06,723 - logger.problem - DEBUG - b : 4
+2019-04-07 22:45:06,723 - logger.problem - DEBUG - S position: -1
+2019-04-07 22:45:06,723 - logger.solver - DEBUG - Feasible point : [1 0 1 0], feasible value 9
+2019-04-07 22:45:06,723 - logger.solver - DEBUG - Estimate point : [1. 0. 1. 0.], estimate value 9.0
+2019-04-07 22:45:06,724 - logger.solver - DEBUG - Estimate value less or equal record value
+2019-04-07 22:45:06,724 - logger.solver - DEBUG - Get region: [ 0  1 -1  1]
+2019-04-07 22:45:06,724 - logger.problem - DEBUG - A com_sum: [1]
+2019-04-07 22:45:06,724 - logger.problem - DEBUG - b : 0
+2019-04-07 22:45:06,724 - logger.problem - DEBUG - S position: 0
+2019-04-07 22:45:06,725 - logger.solver - DEBUG - Feasible point : [0 1 0 1], feasible value 7
+2019-04-07 22:45:06,725 - logger.solver - DEBUG - Estimate point : [0. 1. 0. 1.], estimate value 7.0
+2019-04-07 22:45:06,725 - logger.solver - DEBUG - Estimate value less or equal record value
+2019-04-07 22:45:06,726 - logger.solver - DEBUG - Get region: [ 0  0 -1  1]
+2019-04-07 22:45:06,726 - logger.problem - DEBUG - A com_sum: [1]
+2019-04-07 22:45:06,727 - logger.problem - DEBUG - b : 2
+2019-04-07 22:45:06,727 - logger.problem - DEBUG - S position: -1
+2019-04-07 22:45:06,728 - logger.solver - DEBUG - Feasible point : [0 0 1 1], feasible value 8
+2019-04-07 22:45:06,729 - logger.solver - DEBUG - Estimate point : [0. 0. 1. 1.], estimate value 8.0
+2019-04-07 22:45:06,729 - logger.solver - DEBUG - Estimate value less or equal record value
+2019-04-07 22:45:06,730 - logger.solver - DEBUG - Get region: [ 1  1 -1  0]
+2019-04-07 22:45:06,730 - logger.problem - DEBUG - A com_sum: [1]
+2019-04-07 22:45:06,730 - logger.problem - DEBUG - b : 0
+2019-04-07 22:45:06,730 - logger.problem - DEBUG - S position: 0
+2019-04-07 22:45:06,730 - logger.solver - DEBUG - Feasible point : [1 1 0 0], feasible value 8
+2019-04-07 22:45:06,731 - logger.solver - DEBUG - Estimate point : [1. 1. 0. 0.], estimate value 8.0
+2019-04-07 22:45:06,731 - logger.solver - DEBUG - Estimate value less or equal record value
+2019-04-07 22:45:06,731 - logger.solver - DEBUG - Get region: [ 0  1 -1  0]
+2019-04-07 22:45:06,731 - logger.problem - DEBUG - A com_sum: [1]
+2019-04-07 22:45:06,731 - logger.problem - DEBUG - b : 2
+2019-04-07 22:45:06,731 - logger.problem - DEBUG - S position: -1
+2019-04-07 22:45:06,731 - logger.solver - DEBUG - Feasible point : [0 1 1 0], feasible value 7
+2019-04-07 22:45:06,732 - logger.solver - DEBUG - Estimate point : [0. 1. 1. 0.], estimate value 7.0
+2019-04-07 22:45:06,732 - logger.solver - DEBUG - Estimate value less or equal record value
